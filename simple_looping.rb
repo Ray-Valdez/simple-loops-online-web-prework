@@ -16,7 +16,6 @@ def loop_iterator(number_of_times)
     counter += 1
     if counter == 7
       break
-  end
 
 end
 
